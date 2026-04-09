@@ -4,6 +4,8 @@ watch the video series where i build this!
 
 https://www.youtube.com/playlist?list=PL79kqjVnD2ENdJDDSTUD3ZMdZPhVVu8yw
 
+<img src="https://github.com/user-attachments/assets/af2a881a-1c08-4161-b665-388ee6db9541" width="400">
+
 - psu completed, ready to print
 - vca (needs to be redone)
 - vco 
